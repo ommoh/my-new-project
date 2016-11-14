@@ -1,0 +1,155 @@
+<!DCTYPE html>
+  <html>
+    <head>
+     
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+		<link rel="stylesheet" a href="nice.css">
+		<title>My Porfolio</title>
+    </head>
+    
+    
+    <body>
+          <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+       <a class="navbar-brand" href="#">
+       <p>OMOMOH AGIOGU</p>
+        </a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav  navbar-right ">
+        <li><a class="active"a href="#Home">Home</a></li>
+        <li><a class="page-scroll" href="#About">About</a></li>
+        <li><a  href="#portfolio">Porfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+        
+    
+      </ul>
+    </div>
+  </div>
+</nav>
+   <div class="section">
+     <h1 class="list">WELCOME OMOMOH WEBSITE</h1>
+     <h2 class="text-center">Iam Front End Developer</h2>
+      
+      </div> 
+      <div id="About" class="container-fluid">
+        <h2>ABOUT</h2>
+        <p class="set">Iam a front end web developer/web designer from Nigeria, and currently living in Arezzo ITALY. I enjoy building everything from small business sites to rich interactive web apps I have a diverst skills rangin from design,to Html,Css,Javascript,Jquery,Mysql all the way to Php custom Wordpress Theame.and also converting PSD to html and css. Everything is changing i will rather say i never stop lerning! If you are a business seeking a web presence or an employer looking to hire, you can get in touch with me.</p>
+
+<p>I also work as a freelancer !!!</p>
+      </div>
+       <div id="portfolio" class="container-fluid">
+         <h3 class="second">Some of my Work</h3><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <p>Responsive Design</p>
+       <img src="http://www.drupalchamp.org/sites/default/files/responsive_web_design.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3">
+       <img src="http://stateofzen.com.au/wp-content/uploads/2014/11/Portfolio-web-design-300x300.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+      </div>
+		 <div id="contact" class="container-fluid">
+      
+       <div class="row">
+   <div class="col-lg-8 col-lg-offset-2">
+                             <h1 class="con">CONTACT</h1>
+                         
+                         <form id="contact-form" method="post" action="mail.php" role="form">
+
+                            <div class="messages"></div>
+
+                          <div class="controls">
+
+                            <div class="row">
+                            <div class="col-md-6">
+                            <div class="form-group">
+                    <label for="form_name">Name </label>
+                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
+                    <div class="help-block with-errors"></div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="form_lastname">Lastname </label>
+                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
+                    <div class="help-block with-errors"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="form_email">Email </label>
+                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email " required="required" data-error="Valid email is required.">
+                    <div class="help-block with-errors"></div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label for="form_message">Message </label>
+                    <textarea id="form_message" name="message" class="form-control" placeholder="Message for me " rows="4" required="required" data-error="Please,leave us a message."></textarea>
+                    <div class="help-block with-errors"></div>
+                    </div>
+                     </div>
+                  <div class="col-md-12">
+                    <input type="submit" class="btn btn-danger btn-send" value="Send message">
+                     </div>
+                    </div>
+                     <div class="row">
+                     <div class="col-md-12">
+                     <p class="text-muted"><strong></strong>
+                     </div>
+                      </div>
+                     </div>
+
+                     </form>
+					 </div>
+					 </div>
+					 
+         </div>
+        <div id="footer" class="container-fluid">
+				       
+					           <h3 class="lee">Connect Me</h3>
+                        	<div class="col-md-4">
+							      <ul class="jest">
+                      <li><a href="      
+        https://it.linkedin.com/in/omomoh-agiogu-17b336a9"target="_blank" i class="fa fa-linkedin-square" style="font-size:30px;color:red"></a></i></li>
+                                  
+                               <li><a href=i class="fa fa-facebook-official" style="font-size:30px;color:red"></a></i></li>
+                               		</ul>
+
+
+                            		</div>					
+				    
+
+				        </div>
+            					
+                                
+
+                 								<p class="text-center">&copy; Copyright 2016  </p>   
+												
+												</div> 
+											
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+                                            											
+    </body>
+</html>
+   
